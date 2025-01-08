@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing/Test.md",
+                "file": "python/Basic Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Basic Syntax"
             }
           }
         ]
@@ -160,13 +160,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "55bc37c879e38e10",
   "lastOpenFiles": [
-    "Landing/Test.md",
+    "python-programming-language.png",
+    "Landing/Read Me.md",
+    "python/Basic Syntax.md",
+    "python",
     "Landing",
     "Landing",
     "Vault/Test.md",
