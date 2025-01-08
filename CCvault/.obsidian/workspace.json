@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e184e82d38bbeccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4ad18ce9268f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55bc37c879e38e10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c57052259eaba963",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c02487afc219ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52092e63b5bbe198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bda0fd1007dc8f71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e1a4496a91e91f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3ef911bd389c643",
+    "type": "split",
+    "children": [
+      {
+        "id": "795492edb196a305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87f7587624f5691",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Landing/Start here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Start here"
+            }
+          },
+          {
+            "id": "3d02d46d02f9fda6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Landing/Start here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Start here"
+            }
+          },
+          {
+            "id": "0ef4c5b1d2898f88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c8644e744b227e83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Landing/Start here.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Start here"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "52092e63b5bbe198",
+  "lastOpenFiles": [
+    "Landing",
+    "Landing",
+    "Vault/Test.md",
+    "Landing/Start here.md",
+    "Vault",
+    "Landing",
+    "Welcome.md"
+  ]
+}
