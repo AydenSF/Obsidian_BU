@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/Binary/Computer Binary.md",
+                "file": "Computers/OS/Windows/Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Binary"
+              "title": "Windows"
             }
           }
         ]
@@ -165,8 +165,11 @@
   },
   "active": "9375c9247889a64b",
   "lastOpenFiles": [
-    "Computers/Binary/Basic Binary.md",
+    "Computers/Programming/CPP/CPP.md",
+    "Computers/OS/Windows/Windows.md",
+    "Computers/Programming/C/C.md",
     "Computers/Binary/Computer Binary.md",
+    "Computers/Binary/Basic Binary.md",
     "Computers/Binary/2's Complement.md",
     "Computers/OS/Linux/programs.md",
     "Landing/Read Me.md",
@@ -198,9 +201,6 @@
     "Computers/Hardware/Registers",
     "Latex/Latex Syntax.md",
     "math/derivatives/Derivative.md",
-    "Computers/Programming/python/Basic Syntax.md",
-    "image_bank/python-programming-language.png",
-    "math/integrals/Integral.md",
-    "Vault/Test.md"
+    "image_bank/python-programming-language.png"
   ]
 }
