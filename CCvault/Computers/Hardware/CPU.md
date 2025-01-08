@@ -13,4 +13,8 @@ Fetch -> decode -> execute
 fetch instructions, decode them, execute them
 
 
+# Fetch
+fetches instruction
 
+
+increments program counter
