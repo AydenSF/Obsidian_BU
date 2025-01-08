@@ -163,18 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52092e63b5bbe198",
+  "active": "55bc37c879e38e10",
   "lastOpenFiles": [
+    "Programming/python/Basic Syntax.md",
+    "math/derivatives/Derivative.md",
+    "image_bank/python-programming-language.png",
     "Programming/CPP",
     "Programming/C",
     "Programming",
     "math/derivatives",
     "math/integrals/Integral.md",
-    "math/derivatives/Derivative.md",
-    "Programming/python/Basic Syntax.md",
     "math/integrals",
     "math",
-    "image_bank/python-programming-language.png",
     "image_bank",
     "Landing/Read Me.md",
     "Programming/python",
@@ -182,7 +182,6 @@
     "Landing",
     "Vault/Test.md",
     "Landing/Start here.md",
-    "Vault",
     "Welcome.md"
   ]
 }
