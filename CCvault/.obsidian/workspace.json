@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55bc37c879e38e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Functions/Special_Function/Rectangular Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rectangular Function"
-            }
-          },
-          {
             "id": "9375c9247889a64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex/Latex Syntax.md",
+                "file": "Computers/Hardware/Arithmetic Logic Unit (ALU).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Syntax"
+              "title": "Arithmetic Logic Unit (ALU)"
             }
           }
         ]
@@ -91,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "c3ef911bd389c643",
@@ -177,24 +163,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55bc37c879e38e10",
+  "active": "9375c9247889a64b",
   "lastOpenFiles": [
-    "Latex/Latex Syntax.md",
+    "Computers/Programming/Instructions.md",
+    "Computers/Hardware/Arithmetic Logic Unit (ALU).md",
+    "Computers/Hardware/CPU.md",
+    "Computers/Hardware/Bus.md",
+    "Computers/Concepts/Bit Order.md",
+    "Computers/Concepts/Compiling.md",
+    "Computers/Binary/Storage.md",
+    "Computers/Binary/Counting.md",
+    "Computers/Data Types.md",
+    "Computers/Programming/CPP",
+    "Computers/Programming/C",
+    "Computers/Binary/2's Complement.md",
+    "Computers/Concepts/Architecture.md",
+    "Computers/Concepts/Harvard Architecture.md",
+    "Computers/Binary",
+    "Computers/Programming/Errors/Segmentation Fault.md",
+    "Computers/Programming/Errors",
+    "Computers/Concepts/Stack Frame.md",
     "math/Functions/Special_Function/Rectangular Function.md",
-    "math/Functions/Special_Function",
-    "math/Functions",
+    "Computers/Hardware/Registrars/Status Registrars.md",
+    "Computers/Hardware/Registrars",
+    "Computers/Concepts",
+    "Latex/Latex Syntax.md",
+    "Computers/Hardware/Computing",
+    "Computers/Hardware",
+    "Computers",
+    "math/Functions/Unit_Step_Function",
     "math/derivatives/Derivative.md",
-    "Latex",
-    "Programming/python/Basic Syntax.md",
+    "Computers/Programming/python/Basic Syntax.md",
     "image_bank/python-programming-language.png",
-    "Programming/CPP",
-    "Programming/C",
-    "Programming",
-    "math/derivatives",
     "math/integrals/Integral.md",
-    "math/integrals",
-    "math",
-    "image_bank",
     "Landing/Read Me.md",
     "Vault/Test.md",
     "Landing/Start here.md",
