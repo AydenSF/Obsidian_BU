@@ -63,20 +63,5 @@ $\begin{vmatrix}1 & 2 & 3 \\ a & b & c\end{vmatrix}$
 
 $\begin{Vmatrix}1 & 2 & 3 \\ a & b & c\end{Vmatrix}$ 
 
-Small matrix $\begin{smallmatrix}1 & 2 & 3 \\ a & b & c\end{smallmatrix}$  ,$\begin{psmallmatrix}1 & 2 & 3 \\ a & b & c\end{psmallmatrix}$, $\begin{bsmallmatrix}1 & 2 & 3 \\ a & b & c\end{bsmallmatrix}$ 
+Small matrix: $\begin{smallmatrix}1 & 2 & 3 \\ a & b & c\end{smallmatrix}$  ,$\begin{psmallmatrix}1 & 2 & 3 \\ a & b & c\end{psmallmatrix}$, $\begin{bsmallmatrix}1 & 2 & 3 \\ a & b & c\end{bsmallmatrix}$ 
 
-
-9. Shortcut for Matrix Block
-- use "Alt+Shift+M" (Mac: "Option+Shift+M") shortcut key to quickly insert **\begin{pmatrix} \end{pmatrix}** block
-
-- **Tip 1: quick next item and next line syntax within matrix block**
-    
-    - pressing **"tab"** within a matrix block will automatically insert **" & "**.
-    - pressing **"enter"** within a matrix block will automatically insert **" \\ "**.
-    - press **"shift+enter"** to go to next line **without** adding these symbols.
-- **Tip 2: Changing parameter**
-    
-    - the default parameter "pmatrix" can be changed in the plugin settings. e.g. matrix, bmatrix, Bmatrix, vmatrix, Vmatrix
-- **Tip 3: Edit Short Cut**
-    
-    - You may edit the shortcut keys in **Settings -> Hotkeys**
