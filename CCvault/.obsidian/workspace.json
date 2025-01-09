@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex/Latex Syntax.md",
+                "file": "Computers/OS/Linux/Terminal/KB Short Cuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Syntax"
+              "title": "KB Short Cuts"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Computers/Programming/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52092e63b5bbe198",
+  "active": "9375c9247889a64b",
   "lastOpenFiles": [
+    "Computers/OS/Linux/Terminal/Linux Commands.md",
+    "Computers/OS/Linux/Terminal/KB Short Cuts.md",
+    "Latex/Latex Syntax.md",
+    "Computers/Untitled",
     "Essays/Untitled",
     "Essays",
     "Landing/Read Me.md",
@@ -180,7 +184,6 @@
     "Computers/OS/Linux/programs.md",
     "Computers/OS/Linux/Untitled",
     "Computers/Concepts/Publisher-Subscriber Relationship.md",
-    "Computers/OS/Linux/Terminal/KB Short Cuts.md",
     "Computers/Hardware/CPU.md",
     "Computers/OS/Linux/Terminal",
     "Computers/OS/Linux",
@@ -195,12 +198,9 @@
     "Computers/Data Types.md",
     "Computers/Concepts/Architecture.md",
     "Computers/Concepts/Harvard Architecture.md",
-    "Computers/Binary",
     "Computers/Programming/Errors/Segmentation Fault.md",
-    "Computers/Programming/Errors",
     "Computers/Concepts/Stack Frame.md",
     "math/Functions/Special_Function/Rectangular Function.md",
-    "Latex/Latex Syntax.md",
     "image_bank/python-programming-language.png"
   ]
 }
