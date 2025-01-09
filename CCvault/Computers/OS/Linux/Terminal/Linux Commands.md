@@ -1,6 +1,12 @@
 #class_II #linux
 
+## Options 
 
+### -t
+-t: continual command
+resends the command until ctrl + c ([[Linux KB Short Cuts#ctrl + c]]) is entered
+
+## Commands
 ### ls
 ls: List the contents of the working directory
 

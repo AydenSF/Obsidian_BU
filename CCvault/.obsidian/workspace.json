@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/OS/Linux/Terminal/KB Short Cuts.md",
+                "file": "Computers/OS/Linux/Terminal/Linux Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KB Short Cuts"
+              "title": "Linux Commands"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "9375c9247889a64b",
   "lastOpenFiles": [
+    "Computers/OS/Linux/Terminal/Linux KB Short Cuts.md",
     "Computers/OS/Linux/Terminal/Linux Commands.md",
-    "Computers/OS/Linux/Terminal/KB Short Cuts.md",
+    "Untitled.md",
     "Latex/Latex Syntax.md",
     "Computers/Untitled",
     "Essays/Untitled",
@@ -200,7 +201,6 @@
     "Computers/Concepts/Harvard Architecture.md",
     "Computers/Programming/Errors/Segmentation Fault.md",
     "Computers/Concepts/Stack Frame.md",
-    "math/Functions/Special_Function/Rectangular Function.md",
     "image_bank/python-programming-language.png"
   ]
 }
