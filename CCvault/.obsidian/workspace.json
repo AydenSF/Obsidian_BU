@@ -27,14 +27,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 09.48.38.excalidraw.md"
+                "file": "Excalidraw/DiodeExcal.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-10 09.48.38.excalidraw"
+              "title": "DiodeExcal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e1c8340d2879008",
+  "active": "9375c9247889a64b",
   "lastOpenFiles": [
-    "Computers/Data Types.md",
-    "Excalidraw/Drawing 2025-01-10 09.48.38.excalidraw.md",
-    "circuit-components.excalidrawlib",
+    "Excalidraw/DiodeExcal.md",
     "Circuits/Components/Diode.md",
+    "Computers/Data Types.md",
+    "circuit-components.excalidrawlib",
     "Excalidraw",
     "Circuits/Components/Resistors.md",
     "Computers/OS/Linux/Terminal/Linux Commands.md",
