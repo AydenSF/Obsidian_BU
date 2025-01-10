@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuits/Components/Diode.md",
+                "file": "Computers/XM-23_CPU/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode"
+              "title": "Notes"
             }
           },
           {
@@ -178,20 +178,21 @@
   },
   "active": "9375c9247889a64b",
   "lastOpenFiles": [
-    "Excalidraw/DiodeExcal.md",
+    "Computers/OS/Linux/Terminal/Linux Commands.md",
+    "Computers/XM-23_CPU/Notes.md",
+    "Computers/XM-23_CPU",
     "Circuits/Components/Diode.md",
+    "Excalidraw/DiodeExcal.md",
     "Computers/Data Types.md",
     "circuit-components.excalidrawlib",
     "Excalidraw",
     "Circuits/Components/Resistors.md",
-    "Computers/OS/Linux/Terminal/Linux Commands.md",
     "Circuits/Components",
     "Circuits",
     "Computers/OS/Linux/programs.md",
     "Computers/OS/Linux/Terminal/Linux KB Short Cuts.md",
     "Untitled.md",
     "Latex/Latex Syntax.md",
-    "Computers/Untitled",
     "Essays/Untitled",
     "Essays",
     "Landing/Read Me.md",
