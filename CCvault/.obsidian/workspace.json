@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Notes"
             }
-          },
-          {
-            "id": "0e1c8340d2879008",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/DiodeExcal.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DiodeExcal"
-            }
           }
         ]
       }
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loader",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,11 +166,12 @@
   },
   "active": "9375c9247889a64b",
   "lastOpenFiles": [
-    "Computers/OS/Linux/Terminal/Linux Commands.md",
+    "Computers/Concepts/Compiling.md",
+    "Excalidraw/DiodeExcal.md",
     "Computers/XM-23_CPU/Notes.md",
+    "Computers/OS/Linux/Terminal/Linux Commands.md",
     "Computers/XM-23_CPU",
     "Circuits/Components/Diode.md",
-    "Excalidraw/DiodeExcal.md",
     "Computers/Data Types.md",
     "circuit-components.excalidrawlib",
     "Excalidraw",
@@ -213,7 +202,6 @@
     "Computers/Hardware/Arithmetic Logic Unit (ALU).md",
     "Computers/Hardware/Bus.md",
     "Computers/Concepts/Bit Order.md",
-    "Computers/Concepts/Compiling.md",
     "image_bank/python-programming-language.png"
   ]
 }
