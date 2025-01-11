@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono"
 }
