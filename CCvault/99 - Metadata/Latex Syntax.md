@@ -1,6 +1,6 @@
 # General
 $\not=$ 
-
+$\infty$
 # Greek Math Symbols and Common Uses (A-Z)     
 $\alpha$ (alpha) 
 $\beta$

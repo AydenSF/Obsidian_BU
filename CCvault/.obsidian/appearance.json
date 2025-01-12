@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "Obsidian Nord",
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrains Mono NL",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": "#252ad0"
 }
