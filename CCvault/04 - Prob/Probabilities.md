@@ -6,6 +6,13 @@
 A $\subset$ $\Omega$ 
 A is a subset of $\Omega$ 
 
+# Rules
+
+## Bayes Rule
+$P(A\mid B)=\frac{P(B\mid A)P(A)}{P(B)}$
+
+
+
 # Basic probability Properties
 
 $P(\Omega) = 1$ // entire space
@@ -34,6 +41,9 @@ $P(E_{1}\cup E_{2})=P(E_{1})+P(E_{2})-P(E_{1}\cap E_{2})$
 
 # Conditional Probability
 
+$P(B\mid A)=\frac{P(B\cap A)}{P(A)}=\frac{P(A,B)}{P(A)}$
+
+![[Pasted image 20250210174548.png]]
 
 
 # Probability Examples
@@ -45,5 +55,8 @@ what is the $P(S=k),k=2,\dots,12$
 
 say $S=5$
 
+
+## PE2
+#conditional_probability_example
 
 

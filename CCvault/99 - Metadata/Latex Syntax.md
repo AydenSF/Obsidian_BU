@@ -38,7 +38,7 @@ $\Omega$ (\Omega)
 $\omega$ (\omega) 
 # Math Functions
 $\lim _{x \to a} f(x)$
-$\int _{a}^{b}f(x)$      
+$\int _{a}^{b}f(x)$
 $\oint _a^bf(x)$ 
 $\sum _a^bf(x)$ 
 $\prod f(x)$  
