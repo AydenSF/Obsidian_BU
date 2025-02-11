@@ -6,7 +6,7 @@
       {
         "id": "fd611baad5274b51",
         "type": "tabs",
-        "dimension": 26.7512077294686,
+        "dimension": 26.751207729468597,
         "children": [
           {
             "id": "f07dd54f31b07085",
@@ -27,7 +27,7 @@
       {
         "id": "e19d6e7bc8761e1e",
         "type": "tabs",
-        "dimension": 73.24879227053141,
+        "dimension": 73.2487922705314,
         "children": [
           {
             "id": "41c5f37a898104bb",
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Signals/Demodulation.md",
+                "file": "05 - Signals/Signals Formula Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demodulation"
+              "title": "Signals Formula Sheet"
             }
           },
           {
@@ -217,8 +217,9 @@
   },
   "active": "960ef62d064a6ff0",
   "lastOpenFiles": [
-    "99 - Metadata/Latex Syntax.md",
     "05 - Signals/Demodulation.md",
+    "05 - Signals/Signals Formula Sheet.md",
+    "99 - Metadata/Latex Syntax.md",
     "05 - Signals/Modulation.md",
     "99 - Metadata/image_bank/Probabilites/The-binary-symmetric-channel-with-cross-over-probability-p.png",
     "99 - Metadata/image_bank/Probabilites/Pasted image 20250211003420.png",
