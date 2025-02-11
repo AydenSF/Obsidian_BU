@@ -2,31 +2,31 @@
 $\not=$ 
 $\infty$
 # Greek Math Symbols and Common Uses (A-Z)     
-$\alpha$ (alpha) 
+$\alpha$ (\alpha) 
 $\beta$
 $\Gamma$
 $\gamma$
-$\Delta$ (Delta) Used to represent a change in a value 
+$\Delta$ (\Delta) Used to represent a change in a value 
 $\delta$
 $\epsilon$
 $\zeta$
 $\eta$
-$\Theta$ (Theta)
-$\theta$ (theta) Used to represent an angle 
+$\Theta$ (\Theta)
+$\theta$ (\theta) Used to represent an angle 
 $\iota$
-$\kappa$ (kappa)
-$\Lambda$ (Lambda)
-$\lambda$ (lambda) Used to wavelength 
-$\mu$ (mu) Used for friction coefficient
-$\nu$ (nu)
+$\kappa$ (\kappa)
+$\Lambda$ (\Lambda)
+$\lambda$ (\lambda) Used to wavelength 
+$\mu$ (\mu) Used for friction coefficient
+$\nu$ (\nu)
 $\Xi$ 
 $\xi$ 
 $\Pi$ 
-$\pi$ (pi) Its pi, 3.14
-$\rho$ (rho)
-$\Sigma$ (Sigma)
-$\sigma$ (sigma)
-$\tau$ (tau)
+$\pi$ (\pi) Its pi, 3.14
+$\rho$ (\rho)
+$\Sigma$ (\Sigma)
+$\sigma$ (\sigma)
+$\tau$ (\tau)
 $\Upsilon$ 
 $\upsilon$ 
 $\Phi$ (Phi)
@@ -51,6 +51,15 @@ $\cap$
 $\ge$ 
 $\le$
 
+
+# Probabilities
+## Common Set Notation in LaTeX 
+ - **Subset:** $\subset$ → $A \subset B$ 
+ - **Proper Subset:** $\subsetneq$ → $A \subsetneq B$ 
+ - **Superset:** $\supset$ → $B \supset A$ 
+ - **Proper Superset:** $\supsetneq$ → $B \supsetneq A$ 
+ - **Not a Subset:** $\nsubseteq$ → $A \nsubseteq B$ 
+ - **Not a Superset:** $\nsupseteq$ → $A \nsupseteq B$
 # Matrix 
 
 $\begin{matrix}1 & 2 & 3 \\ a & b & c\end{matrix}$ 
