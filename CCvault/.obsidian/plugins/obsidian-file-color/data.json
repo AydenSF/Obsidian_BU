@@ -16,6 +16,11 @@
       "id": "iZeerY1EGlrGkVxihpECm",
       "name": "Blue",
       "value": "#02008a"
+    },
+    {
+      "id": "Q3VAncm7G1vVRouaXUeLD",
+      "name": "Light green",
+      "value": "#00ff33"
     }
   ],
   "fileColors": [
@@ -26,6 +31,10 @@
     {
       "path": "05 - Signals",
       "color": "iZeerY1EGlrGkVxihpECm"
+    },
+    {
+      "path": "00 - Circuits",
+      "color": "Q3VAncm7G1vVRouaXUeLD"
     }
   ]
 }

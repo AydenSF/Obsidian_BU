@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiSignalHigh",
-      "LiPlus",
-      "LiMathIntegralX",
-      "LiBadgeCent",
-      "LiMath"
+      "LiPenBox",
+      "LiBinary",
+      "LiCoins",
+      "LiCircuitBoard",
+      "LiSignalHigh"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,9 @@
     "useInternalPlugins": false
   },
   "03 - math": "LiPlus",
-  "05 - Signals": "LiSignalHigh"
+  "05 - Signals": "LiSignalHigh",
+  "00 - Circuits": "LiCircuitBoard",
+  "04 - Probability": "LiCoins",
+  "01 - Computers": "LiBinary",
+  "02 - Essays": "LiPenBox"
 }
