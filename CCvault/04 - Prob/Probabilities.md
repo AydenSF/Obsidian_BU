@@ -1,3 +1,7 @@
+---
+tags:
+  - probability
+---
 # Symbols 
 
 # $\Omega$ - Space of events
@@ -11,6 +15,9 @@ A is a subset of $\Omega$
 ## Bayes Rule
 $P(A\mid B)=\frac{P(B\mid A)P(A)}{P(B)}$
 
+
+## Gaussian Distribution
+$f(x)=\frac{1}{\sqrt{ 2\pi\mu\sigma^2}}\exp\left( -\frac{(x-\mu)^2}{2\sigma^2} \right)$
 
 
 # Basic probability Properties

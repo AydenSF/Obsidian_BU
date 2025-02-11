@@ -1,3 +1,7 @@
+---
+tags:
+  - latex
+---
 # General
 $\not=$ 
 $\infty$
