@@ -7,11 +7,17 @@ A $\subset$ $\Omega$
 A is a subset of $\Omega$ 
 
 # Basic probability Properties
+
 $P(\Omega) = 1$ // entire space
+
 $P(x)=\alpha$// is the probability of x happening
+
 $P(\phi)=0$ // not the entire space
+
 $P(x \cup y) = P(x) + P(y)$ // or
+
 $P(x \cap y) = p(x) \cdot P(y)$ // and
+
 
 $P(E^{c})=P(\Omega-E)=1-P(E)$ // 
 - $\Omega-E=E^c$

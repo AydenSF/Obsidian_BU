@@ -29,13 +29,13 @@ $\sigma$ (\sigma)
 $\tau$ (\tau)
 $\Upsilon$ 
 $\upsilon$ 
-$\Phi$ (Phi)
-$\phi$ (phi)
+$\Phi$ (\Phi)
+$\phi$ (\phi)
 $\chi$ 
 $\Psi$ 
 $\psi$ 
-$\Omega$ (Omega) 
-$\omega$ (omega) 
+$\Omega$ (\Omega) 
+$\omega$ (\omega) 
 # Math Functions
 $\lim _{x \to a} f(x)$
 $\int _{a}^{b}f(x)$      
