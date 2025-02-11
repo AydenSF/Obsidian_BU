@@ -4,7 +4,10 @@ tags:
 ---
 # General
 $\not=$ 
+$\approx$
 $\infty$
+$\begin{cases}1, t=0 \\0,else \end{cases}$
+
 # Greek Math Symbols and Common Uses (A-Z)     
 $\alpha$ (\alpha) 
 $\beta$ 

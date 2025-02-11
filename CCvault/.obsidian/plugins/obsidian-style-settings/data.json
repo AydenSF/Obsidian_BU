@@ -1,6 +1,6 @@
 {
   "id@@headers-one-color": false,
   "id@@h1-underline": false,
-  "id@@h2-color-theme@@light": "#0043FF",
-  "id@@h2-color-theme@@dark": "#0011AE"
+  "id@@h2-color-theme@@dark": "#0011AE",
+  "id@@h3-color-theme@@dark": "#8D0074"
 }

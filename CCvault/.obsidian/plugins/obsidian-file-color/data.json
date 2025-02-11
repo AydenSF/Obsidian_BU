@@ -1,0 +1,31 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "7OH3grvyKyPtqyfiegSXQ",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "zbnCx_TPN4Q0WVDmdVMoi",
+      "name": "Light red",
+      "value": "#ff3d3d"
+    },
+    {
+      "id": "iZeerY1EGlrGkVxihpECm",
+      "name": "Blue",
+      "value": "#02008a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "03 - math",
+      "color": "7OH3grvyKyPtqyfiegSXQ"
+    },
+    {
+      "path": "05 - Signals",
+      "color": "iZeerY1EGlrGkVxihpECm"
+    }
+  ]
+}
