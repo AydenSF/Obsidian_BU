@@ -3,12 +3,12 @@ $\not=$
 $\infty$
 # Greek Math Symbols and Common Uses (A-Z)     
 $\alpha$ (\alpha) 
-$\beta$
-$\Gamma$
-$\gamma$
+$\beta$ 
+$\Gamma$ 
+$\gamma$ 
 $\Delta$ (\Delta) Used to represent a change in a value 
-$\delta$
-$\epsilon$
+$\delta$ 
+$\epsilon$ 
 $\zeta$
 $\eta$
 $\Theta$ (\Theta)
