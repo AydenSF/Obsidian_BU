@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,15 +215,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "960ef62d064a6ff0",
+  "active": "d135a51386d25f1b",
   "lastOpenFiles": [
-    "05 - Signals/Demodulation.md",
-    "05 - Signals/Signals Formula Sheet.md",
     "99 - Metadata/Latex Syntax.md",
+    "04 - Probability/Probabilities.md",
     "05 - Signals/Modulation.md",
+    "05 - Signals/Signals Formula Sheet.md",
+    "05 - Signals/Demodulation.md",
     "99 - Metadata/image_bank/Probabilites/The-binary-symmetric-channel-with-cross-over-probability-p.png",
     "99 - Metadata/image_bank/Probabilites/Pasted image 20250211003420.png",
-    "04 - Probability/Probabilities.md",
     "03 - math/Functions/Dirac Delta Function.md",
     "05 - Signals/Binary Symmetric Channel.md",
     "01 - Computers/Programming/python/Basic Syntax.md",
