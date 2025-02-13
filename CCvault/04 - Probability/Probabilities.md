@@ -4,36 +4,6 @@ tags:
 ---
 # Symbols 
 
-# $\Omega$ - Space of events
-
-## Subset 
-A subset is when all element of a set are also an element of another set. 
-
-$A\subset \Omega$
-
-The case $A=\Omega$ is possible but the previous is a proper subset while this is less so. // unsure
-
-$A\subseteq \Omega$
-
-### Properties
-
-
-## Superset
-Of course the opposite is true when a set contains all the elements of another. It is then a superset.
-
-The equation also becomes flipped
-
-$\Omega \supset A$
-
-# Rules
-
-## Bayes Rule
-$P(A\mid B)=\frac{P(B\mid A)P(A)}{P(B)}$
-// put other form
-
-## Gaussian Distribution
-$f(x)=\frac{1}{\sqrt{ 2\pi\mu\sigma^2}}\exp\left( -\frac{(x-\mu)^2}{2\sigma^2} \right)$
-
 
 # Basic probability Properties
 
