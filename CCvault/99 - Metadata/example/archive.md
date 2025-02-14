@@ -1,3 +1,5 @@
+stage 3
+
 long term exhaustive ideas and are not notes
 
 they may not hold all the info but they do point to it
