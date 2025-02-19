@@ -2,9 +2,14 @@
 tags:
   - latex
 ---
+# Source
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+
 # General
 $\not=$ 
 $\approx$
+
+
 $\infty$
 $\begin{cases}1, t=0 \\0,else \end{cases}$
 

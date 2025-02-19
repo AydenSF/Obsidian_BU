@@ -21,6 +21,11 @@
       "id": "Q3VAncm7G1vVRouaXUeLD",
       "name": "Light green",
       "value": "#00ff33"
+    },
+    {
+      "id": "2HDN9jGxLOPHhe7llM5L4",
+      "name": "Yellow",
+      "value": "#fff700"
     }
   ],
   "fileColors": [
@@ -35,6 +40,10 @@
     {
       "path": "00 - Circuits",
       "color": "Q3VAncm7G1vVRouaXUeLD"
+    },
+    {
+      "path": "01 - Computers",
+      "color": "2HDN9jGxLOPHhe7llM5L4"
     }
   ]
 }
