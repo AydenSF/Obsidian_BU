@@ -1,4 +1,4 @@
-#class_II #linux
+#linux
 
 ## Options 
 

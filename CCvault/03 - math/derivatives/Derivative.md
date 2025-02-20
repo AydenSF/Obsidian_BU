@@ -1,4 +1,3 @@
-#class_II 
 
 # ~Symbol
 A derivative is d over dx: $\frac{d}{dx}$  

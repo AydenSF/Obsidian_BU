@@ -1,4 +1,3 @@
-#class_II
 
 Binary is surprise base 2 
 Usually each digit is represented by 1 or 0.
