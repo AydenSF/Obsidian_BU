@@ -5,7 +5,7 @@ tags:
 A diode has 3 regions of operations
 - [[Forward Bias]]
 - [[Reverse Bias]]
-- [[Breakdown Zone]]
+- [[Breakdown Region]]
 
 
 In a [[Real Diode]] the voltage vs current graph appears like this 
