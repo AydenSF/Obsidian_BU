@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "03 - math": "LiPlus",
-  "05 - Signals": "LiSignalHigh",
-  "00 - Circuits": "LiCircuitBoard",
-  "04 - Probability": "LiCoins",
-  "01 - Computers": "LiBinary",
-  "02 - Essays": "LiPenBox"
+  "01 - Circuits": "LiCircuitBoard",
+  "02 - Computers": "LiBinary",
+  "03 - Essays": "LiPenBox",
+  "04 - math": "LiPlus",
+  "05 - Probability": "LiCoins",
+  "06 - Signals": "LiSignalHigh"
 }

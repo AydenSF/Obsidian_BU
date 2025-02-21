@@ -3,5 +3,8 @@
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono",
-  "accentColor": "#3392ff"
+  "accentColor": "#3392ff",
+  "enabledCssSnippets": [
+    "Align"
+  ]
 }

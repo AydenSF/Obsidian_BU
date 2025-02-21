@@ -30,19 +30,19 @@
   ],
   "fileColors": [
     {
-      "path": "03 - math",
+      "path": "04 - math",
       "color": "7OH3grvyKyPtqyfiegSXQ"
     },
     {
-      "path": "05 - Signals",
+      "path": "06 - Signals",
       "color": "iZeerY1EGlrGkVxihpECm"
     },
     {
-      "path": "00 - Circuits",
+      "path": "01 - Circuits",
       "color": "Q3VAncm7G1vVRouaXUeLD"
     },
     {
-      "path": "01 - Computers",
+      "path": "02 - Computers",
       "color": "2HDN9jGxLOPHhe7llM5L4"
     }
   ]
