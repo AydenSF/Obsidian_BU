@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+                "file": "06 - Signals/Digital Signals/Digital-Analog Sampling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filtered Noise Using Equivalent Baseband Representation"
+              "title": "Digital-Analog Sampling"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Signals/Noise/Received Signal Power.md",
+                "file": "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+                "file": "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Signals/Modulation/Conventional Amplitude Modulation (AM).md",
+                "file": "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
                 "mode": "source",
                 "source": false
               },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+                "file": "06 - Signals/Digital Signals/Digital-Analog Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Filtered Noise Using Equivalent Baseband Representation"
+              "title": "Backlinks for Digital-Analog Sampling"
             }
           },
           {
@@ -222,20 +222,27 @@
   },
   "active": "b945af2314c3f00e",
   "lastOpenFiles": [
-    "06 - Signals/Noise/Received Signal Power.md",
-    "06 - Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+    "06 - Signals/Digital Signals/Linear Interpolation.md",
+    "06 - Signals/Digital Signals/Digital-Analog Sampling.md",
+    "06 - Signals/Digital Signals/Quantization.md",
+    "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+    "06 - Signals/Analog Signals/Transmission of Signals.md",
+    "06 - Signals/Analog Signals",
+    "06 - Signals/Digital Signals",
+    "06 - Signals/Untitled.md",
+    "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
     "Pasted image 20250224105802.png",
     "Pasted image 20250224105750.png",
-    "06 - Signals/Noise/Power of Filtered Noise.md",
-    "06 - Signals/Parceval's Identity.md",
-    "06 - Signals/Parceval's relation.md",
-    "06 - Signals/Noise/Signal to Noise Ratio.md",
-    "06 - Signals/Modulation/Conventional Amplitude Modulation (AM).md",
+    "06 - Signals/Analog Signals/Noise/Power of Filtered Noise.md",
+    "06 - Signals/Analog Signals/Parceval's Identity.md",
+    "06 - Signals/Analog Signals/Parceval's relation.md",
+    "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
+    "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
     "99 - Latex/Latex Syntax.md",
-    "06 - Signals/Noise/White Gaussian Noise Process.md",
-    "06 - Signals/Noise/Effect of Additive Noise on SSB-AM.md",
-    "06 - Signals/Modulation/Amplitude Modulation.md",
-    "06 - Signals/Noise",
+    "06 - Signals/Analog Signals/Noise/White Gaussian Noise Process.md",
+    "06 - Signals/Analog Signals/Noise/Effect of Additive Noise on SSB-AM.md",
+    "06 - Signals/Analog Signals/Modulation/Amplitude Modulation.md",
+    "06 - Signals/Analog Signals/Noise",
     "01 - Circuits/PN Junction/Depletion Region/Depletion Capacitance under OCC.md",
     "01 - Circuits/PN Junction/PN Junction under OCC.md",
     "01 - Circuits/Physical Operation of Diodes/Semiconductor/n type semiconductor.md",
@@ -251,10 +258,6 @@
     "Pasted image 20250224084410.png",
     "Pasted image 20250224084253.png",
     "01 - Circuits/Zener Diode/Zener Examples/Zener Example 1.md",
-    "01 - Circuits/Ripple and Nominal DC Voltage.md",
-    "01 - Circuits/Diodes/Diode Models/Small-Signal Model.md",
-    "01 - Circuits/Diodes/Load Line.md",
-    "01 - Circuits/Diodes/Diode Models/Iterative Solution.md",
     "99 - Metadata/image_bank/Pasted image 20250220004019.png",
     "99 - Metadata/image_bank/circuits/ECED3201/Diode/Pasted image 20250221174544.png",
     "99 - Metadata/image_bank/circuits/ECED3201/Diode/Pasted image 20250221174538.png",
@@ -264,8 +267,6 @@
     "06 - Signals/Modulation/Untitled",
     "01 - Circuits/Rectifier Circuits/Untitled",
     "99 - Metadata/image_bank/circuits/ECED3201/problems",
-    "99 - Metadata/image_bank/circuits/ECED3201/Diode",
-    "01 - Circuits/Zener Diode/Zener Examples",
-    "01 - Circuits/Zener Diode"
+    "99 - Metadata/image_bank/circuits/ECED3201/Diode"
   ]
 }
