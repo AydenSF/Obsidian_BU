@@ -1,7 +1,7 @@
 ---
 tags:
-  - ECED3201
+  - ECED3511
 loc: 
 aliases:
-  - n type
+  - AM
 ---

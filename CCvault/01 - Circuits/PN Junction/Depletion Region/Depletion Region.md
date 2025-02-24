@@ -1,7 +1,6 @@
 ---
 tags:
   - ECED3201
-loc: 
-aliases:
-  - n type
+loc: lect10
 ---
+

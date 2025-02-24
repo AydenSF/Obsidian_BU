@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1740406159088,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "01 - Circuits/Physical Operation of Diodes/Semiconductor/Doped Semiconductors.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "01 - Circuits/Physical Operation of Diodes/Semiconductor/p type semiconductor.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "01 - Circuits/Physical Operation of Diodes/Semiconductor/n type semiconductor.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "01 - Circuits/PN Junction/PN Junction under OCC.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "01 - Circuits/PN Junction/Depletion Region/Depletion Capacitance under OCC.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740406141733,
+          "path": "99 - Latex/Latex Syntax.md"
+        }
+      ],
+      "title": "recover"
+    }
+  ]
+}
