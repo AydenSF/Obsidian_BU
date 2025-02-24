@@ -8,3 +8,4 @@ $$I_{D}=\frac{V_{DD}-V_{D}}{R}$$
 $$V_{D}=nV_{T}\ln\left( \frac{V_{DD}-V_{D}}{R\cdot I_{S}} \right)$$
 Use a seed $V_{D}$ (in equation) usually 0.7V then iterate using the result in the nest $V_{D}$
 
+// What is n?
