@@ -4,81 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "92e3611b21357b3a",
+        "id": "6d2b920cc3f60287",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e08d08cec463d4",
+            "id": "b945af2314c3f00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Rectifier Circuits/Bridge Rectifier.md",
+                "file": "02 - Computers/Cache/Combined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bridge Rectifier"
+              "title": "Combined"
             }
           },
           {
-            "id": "cc2b06473fdaf58b",
+            "id": "5d00128c70038c19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Zener Diode/Zener Diode Breakdown Region Model.md",
+                "file": "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zener Diode Breakdown Region Model"
+              "title": "Received Signal Power"
             }
           },
           {
-            "id": "455c9607f98e78c3",
+            "id": "658e38c5315d4e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Diodes/Diode Models/Small-Signal Model.md",
+                "file": "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Small-Signal Model"
+              "title": "Filtered Noise Using Equivalent Baseband Representation"
             }
           },
           {
-            "id": "d909b0d9d59d1a2b",
+            "id": "2e473e34dcc84a7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Diodes/Diode Models/Diode Accurate Model.md",
+                "file": "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Accurate Model"
+              "title": "Conventional Amplitude Modulation (AM)"
             }
           },
           {
-            "id": "64b89fe22c6badd6",
+            "id": "ea34f2b810aa59ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Diodes/Incremental Resistance.md",
+                "file": "02 - Computers/Cache/Write Through.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incremental Resistance"
+              "title": "Write Through"
             }
           },
           {
-            "id": "9f01b7c68d08a29c",
+            "id": "e10a50f122a39d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Circuits/Diodes/Voltage Mode Diode Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Voltage Mode Diode Test"
+            }
+          },
+          {
+            "id": "b6140971831f3186",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,21 +106,21 @@
             }
           },
           {
-            "id": "b6b9e9c7e72976ad",
+            "id": "39821caa95b4125a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Rectifier Circuits/Bridge Rectifier.md",
+                "file": "01 - Circuits/Saturation Current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bridge Rectifier"
+              "title": "Saturation Current"
             }
           },
           {
-            "id": "9d9707f8be3fc755",
+            "id": "f146d87f05e47e06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,20 +134,35 @@
             }
           },
           {
-            "id": "866cc14572e9ad70",
+            "id": "256b337abbf1bd71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Circuits/Limiter Circuits/Hard Limiter.md",
+                "file": "01 - Circuits/Rectifier Circuits/Full-Wave Rectifier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hard Limiter"
+              "title": "Full-Wave Rectifier"
+            }
+          },
+          {
+            "id": "5c89f85cae89b0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Circuits/Rectifier Circuits/Half-Wave Rectifier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Half-Wave Rectifier"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ECED3201",
+                "query": "Rect",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,39 +306,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8e08d08cec463d4",
+  "active": "f146d87f05e47e06",
   "lastOpenFiles": [
-    "01 - Circuits/Diodes/Diode Models/Small-Signal Model.md",
-    "01 - Circuits/Zener Diode/Zener Diode Breakdown Region Model.md",
-    "01 - Circuits/Diodes/Incremental Resistance.md",
-    "01 - Circuits/Limiter Circuits/Hard Limiter.md",
+    "01 - Circuits/Rectifier Circuits/Full-Wave Rectifier.md",
+    "01 - Circuits/Rectifier Circuits/Half-Wave Rectifier.md",
     "01 - Circuits/Limiter Circuits/Soft Limiter.md",
-    "01 - Circuits/Limiter Circuits/Clamping Circuit.md",
-    "01 - Circuits/Rectifier Circuits/Peak Inverse Voltage.md",
-    "01 - Circuits/Rectifier Circuits/Bridge Rectifier.md",
-    "01 - Circuits/Diodes/Voltage Mode Diode Test.md",
-    "01 - Circuits/Diodes/Current Mode Diode Test.md",
+    "01 - Circuits/Saturation Current.md",
     "01 - Circuits/Diodes/Diode Models/Iterative Solution.md",
     "01 - Circuits/Diodes/Diode Transfer Function.md",
-    "01 - Circuits/Diodes/Diode Models/Diode Accurate Model.md",
-    "01 - Circuits/Zener Diode/Zener Diode.md",
-    "02 - Computers/Cache/Combined.md",
-    "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
-    "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
-    "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
-    "02 - Computers/Cache/Write Through.md",
+    "01 - Circuits/Diodes/Voltage Mode Diode Test.md",
+    "01 - Circuits/Diodes/Voltage Doubler.md",
     "02 - Computers/Cache/Write Back.md",
+    "02 - Computers/Cache/Write Through.md",
+    "02 - Computers/Cache/Combined.md",
     "02 - Computers/Cache/Direct Mapping.md",
     "02 - Computers/Cache/Associative.md",
     "06 - Signals/Digital Signals/Digital-Analog Sampling.md",
     "02 - Computers/Cache",
     "06 - Signals/Digital Signals/Linear Interpolation.md",
     "06 - Signals/Digital Signals/Quantization.md",
+    "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
     "06 - Signals/Analog Signals/Transmission of Signals.md",
     "06 - Signals/Analog Signals",
     "06 - Signals/Digital Signals",
+    "06 - Signals/Untitled.md",
+    "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
     "Pasted image 20250224105802.png",
     "Pasted image 20250224105750.png",
+    "06 - Signals/Analog Signals/Noise/Power of Filtered Noise.md",
+    "06 - Signals/Analog Signals/Parceval's Identity.md",
+    "06 - Signals/Analog Signals/Parceval's relation.md",
+    "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
+    "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
+    "99 - Latex/Latex Syntax.md",
     "06 - Signals/Analog Signals/Noise",
     "Pasted image 20250224093322.png",
     "01 - Circuits/PN Junction",
