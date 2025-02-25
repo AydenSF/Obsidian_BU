@@ -1,3 +1,9 @@
+---
+tags:
+  - ECED3201
+aliases:
+  - Voltage Mode Test
+---
 Using voltage analysis to determine the state of a diode
 
 ![[Pasted image 20250218154805.png]]
