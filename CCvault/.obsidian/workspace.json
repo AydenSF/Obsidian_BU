@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2b920cc3f60287",
+        "id": "2f976bf518723c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "b945af2314c3f00e",
+            "id": "1f5f6ac502ed3450",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Computers/Cache/Combined.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Combined"
-            }
-          },
-          {
-            "id": "5d00128c70038c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Received Signal Power"
-            }
-          },
-          {
-            "id": "658e38c5315d4e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Filtered Noise Using Equivalent Baseband Representation"
-            }
-          },
-          {
-            "id": "2e473e34dcc84a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conventional Amplitude Modulation (AM)"
-            }
-          },
-          {
-            "id": "ea34f2b810aa59ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Computers/Cache/Write Through.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Write Through"
-            }
-          },
-          {
-            "id": "e10a50f122a39d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Diodes/Voltage Mode Diode Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Voltage Mode Diode Test"
-            }
-          },
-          {
-            "id": "b6140971831f3186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Diodes/Diode Models/Iterative Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iterative Solution"
-            }
-          },
-          {
-            "id": "39821caa95b4125a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Saturation Current.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saturation Current"
-            }
-          },
-          {
-            "id": "f146d87f05e47e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Limiter Circuits/Soft Limiter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soft Limiter"
-            }
-          },
-          {
-            "id": "256b337abbf1bd71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Rectifier Circuits/Full-Wave Rectifier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full-Wave Rectifier"
-            }
-          },
-          {
-            "id": "5c89f85cae89b0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Circuits/Rectifier Circuits/Half-Wave Rectifier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Half-Wave Rectifier"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,38 +161,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f146d87f05e47e06",
+  "active": "1f5f6ac502ed3450",
   "lastOpenFiles": [
-    "01 - Circuits/Rectifier Circuits/Full-Wave Rectifier.md",
     "01 - Circuits/Rectifier Circuits/Half-Wave Rectifier.md",
+    "01 - Circuits/Rectifier Circuits/Full-Wave Rectifier.md",
     "01 - Circuits/Limiter Circuits/Soft Limiter.md",
     "01 - Circuits/Saturation Current.md",
     "01 - Circuits/Diodes/Diode Models/Iterative Solution.md",
-    "01 - Circuits/Diodes/Diode Transfer Function.md",
     "01 - Circuits/Diodes/Voltage Mode Diode Test.md",
+    "02 - Computers/Cache/Write Through.md",
+    "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
+    "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
+    "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
+    "02 - Computers/Cache/Combined.md",
+    "01 - Circuits/Diodes/Diode Transfer Function.md",
     "01 - Circuits/Diodes/Voltage Doubler.md",
     "02 - Computers/Cache/Write Back.md",
-    "02 - Computers/Cache/Write Through.md",
-    "02 - Computers/Cache/Combined.md",
     "02 - Computers/Cache/Direct Mapping.md",
     "02 - Computers/Cache/Associative.md",
     "06 - Signals/Digital Signals/Digital-Analog Sampling.md",
     "02 - Computers/Cache",
     "06 - Signals/Digital Signals/Linear Interpolation.md",
     "06 - Signals/Digital Signals/Quantization.md",
-    "06 - Signals/Analog Signals/Noise/Filtered Noise Using Equivalent Baseband Representation.md",
     "06 - Signals/Analog Signals/Transmission of Signals.md",
     "06 - Signals/Analog Signals",
     "06 - Signals/Digital Signals",
     "06 - Signals/Untitled.md",
-    "06 - Signals/Analog Signals/Noise/Received Signal Power.md",
     "Pasted image 20250224105802.png",
     "Pasted image 20250224105750.png",
     "06 - Signals/Analog Signals/Noise/Power of Filtered Noise.md",
     "06 - Signals/Analog Signals/Parceval's Identity.md",
     "06 - Signals/Analog Signals/Parceval's relation.md",
     "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
-    "06 - Signals/Analog Signals/Modulation/Conventional Amplitude Modulation (AM).md",
     "99 - Latex/Latex Syntax.md",
     "06 - Signals/Analog Signals/Noise",
     "Pasted image 20250224093322.png",
