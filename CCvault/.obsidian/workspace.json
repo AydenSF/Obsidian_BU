@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
+            "id": "00e805a8c5d9a56e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Computers/00 - volatile/Pipelining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pipelining"
+            }
+          },
+          {
             "id": "ae72cea70386af76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
+                "file": "02 - Computers/00 - volatile/Superscaler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signal to Noise Ratio"
+              "title": "Superscaler"
+            }
+          },
+          {
+            "id": "d6e405e6b2619293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Computers/00 - volatile/Flynn's Taxonomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flynn's Taxonomy"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,9 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae72cea70386af76",
+  "active": "d6e405e6b2619293",
   "lastOpenFiles": [
+    "02 - Computers/00 - volatile/Superscaler.md",
+    "02 - Computers/00 - volatile/Pipelining.md",
+    "02 - Computers/00 - volatile/Flynn's Taxonomy.md",
     "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
+    "02 - Computers/00 - volatile",
     "98 - Excalidraw/DiodeExcal.md",
     "06 - Signals/00 - volatile",
     "01 - Circuits/Components/Transistors/npn BJT/Summary of npn Current-Voltage Characteristics.md",
@@ -196,15 +229,11 @@
     "01 - Circuits/00 - volatile",
     "02 - Computers/Hardware/Registers/PSW/Program Status Word.md",
     "02 - Computers/Hardware/Registers/PSW/oVerflow.md",
-    "02 - Computers/Hardware/Arithmetic Logic Unit.md",
     "02 - Computers/Hardware/Registers/PSW/Untitled",
-    "02 - Computers/Hardware/Registers/Register File.md",
-    "02 - Computers/XM-23_ASM/Instructions/Conditional Execute.md",
     "02 - Computers/Hardware/Registers/PSW",
     "02 - Computers/XM-23_ASM/Instructions",
     "02 - Computers/Cache",
     "06 - Signals/Analog Signals",
-    "06 - Signals/Digital Signals",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105802.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105750.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224093322.png",
