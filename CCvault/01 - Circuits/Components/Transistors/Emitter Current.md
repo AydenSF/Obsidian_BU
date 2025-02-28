@@ -1,7 +1,14 @@
-the emitter current is (here)
+---
+tags:
+  - ECED3201
+loc: lect11
+aliases:
+---
+the emitter current is
+
 ![[Pasted image 20250214094634.png]]
 $$I_{E}=I_{C}+I_{B}$$
-Using the [[β Force]] equation 
+Using the [[Base Current]] equation 
 
 $$I_{E}=I_{C}+\dfrac{I_{C}}{\beta}$$
 $$I_{C}=\alpha I_{E}$$

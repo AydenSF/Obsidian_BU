@@ -5,6 +5,7 @@ loc: lect9
 aliases:
   - Doped Silicon
   - Doping
+  - Doped
 ---
 Doping silicon is the act of introducing ions into the material. 
 
