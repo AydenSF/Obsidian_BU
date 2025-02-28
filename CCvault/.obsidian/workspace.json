@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Superscaler.md",
+                "file": "02 - Computers/00 - volatile/Superscalar Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superscaler"
+              "title": "Superscalar Architecture"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Flynn's Taxonomy.md",
+                "file": "02 - Computers/00 - volatile/Superscalar Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flynn's Taxonomy"
+              "title": "Superscalar Architecture"
             }
           }
         ],
@@ -195,9 +195,10 @@
   },
   "active": "d6e405e6b2619293",
   "lastOpenFiles": [
-    "02 - Computers/00 - volatile/Superscaler.md",
-    "02 - Computers/00 - volatile/Pipelining.md",
+    "02 - Computers/00 - volatile/Scaler Architecture.md",
+    "02 - Computers/00 - volatile/Superscalar Architecture.md",
     "02 - Computers/00 - volatile/Flynn's Taxonomy.md",
+    "02 - Computers/00 - volatile/Pipelining.md",
     "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
     "02 - Computers/00 - volatile",
     "98 - Excalidraw/DiodeExcal.md",
@@ -228,7 +229,6 @@
     "01 - Circuits/Components/Transistors",
     "01 - Circuits/00 - volatile",
     "02 - Computers/Hardware/Registers/PSW/Program Status Word.md",
-    "02 - Computers/Hardware/Registers/PSW/oVerflow.md",
     "02 - Computers/Hardware/Registers/PSW/Untitled",
     "02 - Computers/Hardware/Registers/PSW",
     "02 - Computers/XM-23_ASM/Instructions",
