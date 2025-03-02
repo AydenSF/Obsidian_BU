@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "6faeaf0db0470d32",
+        "id": "7559359241858e37",
         "type": "tabs",
         "children": [
           {
-            "id": "00e805a8c5d9a56e",
+            "id": "421aa842c37ae497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Pipelining.md",
+                "file": "06 - Signals/00 - volatile/Time Invariance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipelining"
+              "title": "Time Invariance"
             }
           },
           {
-            "id": "ae72cea70386af76",
+            "id": "71dfa4b5954998fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Superscalar Architecture.md",
+                "file": "06 - Signals/00 - volatile/Proving TI in General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superscalar Architecture"
+              "title": "Proving TI in General"
             }
           },
           {
-            "id": "d6e405e6b2619293",
+            "id": "74c7e81544120123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Superscalar Architecture.md",
+                "file": "06 - Signals/00 - volatile/Proving Linearity in General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Superscalar Architecture"
+              "title": "Proving Linearity in General"
+            }
+          },
+          {
+            "id": "f6d29edf9a367257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Signals/Analog Signals/Fourier Series/Trigonometric Fourier Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trigonometric Fourier Series"
+            }
+          },
+          {
+            "id": "2f96e7111fa359ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Signals/Analog Signals/Noise/Power Spectral Density.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Spectral Density"
+            }
+          },
+          {
+            "id": "d2360472a427810a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Signals/00 - volatile/Fundamental Period.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fundamental Period"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +235,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6e405e6b2619293",
+  "active": "71dfa4b5954998fc",
   "lastOpenFiles": [
-    "02 - Computers/00 - volatile/Scaler Architecture.md",
+    "06 - Signals/00 - volatile/Proving Linearity in General.md",
+    "06 - Signals/00 - volatile/Proving TI in General.md",
+    "06 - Signals/00 - volatile/Time Invariance.md",
+    "06 - Signals/Analog Signals/Fourier Series/Trigonometric Fourier Series.md",
+    "06 - Signals/Analog Signals/Noise/Power Spectral Density.md",
+    "06 - Signals/Analog Signals/Fourier Series/Fourier Series.md",
+    "06 - Signals/00 - volatile/Fundamental Period.md",
+    "Pasted image 20250301165036.png",
+    "Least Common Multipule.md",
+    "06 - Signals/Analog Signals/Fourier Series/Dirichlet Conditions for Fourier Series.md",
+    "06 - Signals/00 - volatile/Linear Systems.md",
+    "06 - Signals/00 - volatile/Linear Time Invariance.md",
+    "06 - Signals/Analog Signals/Noise/Power of Filtered Noise.md",
+    "06 - Signals/00 - volatile",
     "02 - Computers/00 - volatile/Superscalar Architecture.md",
+    "02 - Computers/00 - volatile/Scaler Architecture.md",
     "02 - Computers/00 - volatile/Flynn's Taxonomy.md",
     "02 - Computers/00 - volatile/Pipelining.md",
     "06 - Signals/Analog Signals/Noise/Signal to Noise Ratio.md",
@@ -212,34 +268,20 @@
     "01 - Circuits/Components/Transistors/Base Current.md",
     "01 - Circuits/Components/Transistors/Emitter Current.md",
     "01 - Circuits/Components/Transistors/Collector Current.md",
-    "01 - Circuits/Components/Transistors/npn BJT/npn Bipolar Junction Transistor.md",
-    "01 - Circuits/Components/Transistors/npn BJT/npn BJT in Active Mode.md",
     "99 - Metadata/image_bank/circuits/Pasted image 20250228085922.png",
-    "01 - Circuits/Components/Transistors/Collector Region.md",
-    "01 - Circuits/Components/Transistors/Transistors.md",
-    "01 - Circuits/Physical Operation of Diodes/Semiconductor/Doped Semiconductors.md",
     "01 - Circuits/Components/Transistors/npn BJT",
-    "01 - Circuits/Saturation Current.md",
-    "01 - Circuits/Ripple and Nominal DC Voltage.md",
-    "01 - Circuits/Components/Diodes/Width of the Depletion Region.md",
     "99 - Metadata/image_bank/circuits/Pasted image 20250228084933.png",
-    "01 - Circuits/PN Junction/PN Junction.md",
-    "PN Junctions.md",
-    "01 - Circuits/Components/Transistors/pnp Transistor.md",
     "01 - Circuits/Components/Transistors",
     "01 - Circuits/00 - volatile",
-    "02 - Computers/Hardware/Registers/PSW/Program Status Word.md",
     "02 - Computers/Hardware/Registers/PSW/Untitled",
     "02 - Computers/Hardware/Registers/PSW",
     "02 - Computers/XM-23_ASM/Instructions",
     "02 - Computers/Cache",
-    "06 - Signals/Analog Signals",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105802.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105750.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224093322.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224084410.png",
     "99 - Metadata/image_bank/Pasted image 20250220004019.png",
-    "99 - Metadata/image_bank/circuits/ECED3201/Diode/Pasted image 20250221174544.png",
-    "99 - Metadata/image_bank/circuits/ECED3201/Diode/Pasted image 20250221174538.png"
+    "99 - Metadata/image_bank/circuits/ECED3201/Diode/Pasted image 20250221174544.png"
   ]
 }
