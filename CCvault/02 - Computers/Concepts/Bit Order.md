@@ -1,4 +1,0 @@
-
-# Big Endian
-
-# Little Endian
