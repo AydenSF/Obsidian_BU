@@ -1,0 +1,3 @@
+Forge, J. (2004). The Morality of Weapons Research. Science and Engineering Ethics, 10, 531-542. 10.1007/s11948-004-0010-z ([Download](https://www.researchgate.net/publication/8351386_The_morality_of_weapons_research))
+
+Guest, J. (2011). Advancing Weapons Technology and the Future of Warfare: Strategic, Legal and Ethical Perspectives. https://ir.canterbury.ac.nz/server/api/core/bitstreams/862071c5-2e6e-4df1-8c31-2ef40dd8ce47/content

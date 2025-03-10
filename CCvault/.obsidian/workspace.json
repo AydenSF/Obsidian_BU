@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db07248be47802a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Computers/Not Great Notes/Concepts/Stack Frame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stack Frame"
-            }
-          },
-          {
             "id": "bb3f909135054ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/Flynn's Taxonomy/Multiple Instruction Stream Multiple Data Stream.md",
+                "file": "03 - Essays/Weapons Development and Engineering Ethics/Staging/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiple Instruction Stream Multiple Data Stream"
+              "title": "Questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "right": {
     "id": "c3ef911bd389c643",
@@ -181,8 +166,27 @@
   },
   "active": "bb3f909135054ae7",
   "lastOpenFiles": [
-    "02 - Computers/Flynn's Taxonomy/Single Instruction Stream Single Data Stream.md",
+    "03 - Essays/Weapons Development and Engineering Ethics/Staging/Sources.md",
+    "03 - Essays/Weapons Development and Engineering Ethics/Staging.md",
+    "03 - Essays/Weapons Development and Engineering Ethics/Staging/Questions.md",
+    "03 - Essays/Weapons Development and Engineering Ethics/Staging",
+    "03 - Essays/Untitled",
+    "01 - Circuits/Components/MOSFET/Active Region.md",
+    "03 - Essays/Weapons Development and Engineering Ethics",
+    "01 - Circuits/Components/MOSFET/Cutoff Region.md",
+    "01 - Circuits/Components/MOSFET/Linear Region.md",
+    "01 - Circuits/Components/MOSFET/Metal Oxide Semiconductor Field Effect Transistor.md",
+    "01 - Circuits/Components/Diodes/Diode Regions of Operation/Forward Bias.md",
+    "01 - Circuits/Components/Transistors/npn BJT/npn BJT in Active Mode.md",
+    "01 - Circuits/Components/Transistors/npn BJT/Current-Voltage Characteristics of npn BJT.md",
+    "01 - Circuits/Components/Transistors/npn BJT/npn Bipolar Junction Transistor.md",
+    "01 - Circuits/Components/MOSFET/nMOS.md",
+    "02 - Computers/Not Great Notes/Concepts/Stack Frame.md",
+    "01 - Circuits/Components/MOSFET/pMOS.md",
+    "01 - Circuits/Components/Transistors/Transistor.md",
+    "01 - Circuits/Components/MOSFET",
     "02 - Computers/Flynn's Taxonomy/Multiple Instruction Stream Multiple Data Stream.md",
+    "02 - Computers/Flynn's Taxonomy/Single Instruction Stream Single Data Stream.md",
     "02 - Computers/Flynn's Taxonomy/Multiple Instruction Stream Single Data Stream.md",
     "02 - Computers/Flynn's Taxonomy/Single Instruction Stream Multiple Data Stream.md",
     "02 - Computers/Flynn's Taxonomy/Flynn's Taxonomy.md",
@@ -190,25 +194,10 @@
     "02 - Computers/00 - volatile/Scaler Architecture.md",
     "02 - Computers/00 - volatile/Pipelining.md",
     "02 - Computers/Flynn's Taxonomy",
-    "02 - Computers/Not Great Notes/Concepts/Stack Frame.md",
     "02 - Computers/Not Great Notes/Concepts/Architecture.md",
     "02 - Computers/Not Great Notes/Concepts/Bit Order.md",
     "02 - Computers/Not Great Notes/Concepts/Publisher-Subscriber Relationship.md",
-    "02 - Computers/Not Great Notes/Concepts/Compiling.md",
-    "02 - Computers/Von Neumann Organization.md",
-    "02 - Computers/Not Great Notes/Concepts/Harvard Architecture.md",
-    "02 - Computers/Big Endian.md",
-    "02 - Computers/Little Endian.md",
-    "02 - Computers/Secondary Memory.md",
-    "02 - Computers/Not Great Notes/Binary/Computer Binary.md",
-    "02 - Computers/Harvard Organization.md",
-    "02 - Computers/Memory.md",
-    "02 - Computers/Primary Memory.md",
-    "02 - Computers/Central Processing Unit.md",
-    "02 - Computers/Not Great Notes/Data Types.md",
     "02 - Computers/Not Great Notes",
-    "02 - Computers/Not Great Notes/XM-23/XM-23.md",
-    "02 - Computers/Not Great Notes/XM-23/Instructions/Conditional Execute.md",
     "Pasted image 20250301165036.png",
     "06 - Signals/00 - volatile",
     "02 - Computers/00 - volatile",
@@ -217,10 +206,6 @@
     "99 - Metadata/image_bank/circuits/Pasted image 20250228085922.png",
     "01 - Circuits/Components/Transistors/npn BJT",
     "99 - Metadata/image_bank/circuits/Pasted image 20250228084933.png",
-    "01 - Circuits/Components/Transistors",
-    "01 - Circuits/00 - volatile",
-    "02 - Computers/Hardware/Registers/PSW/Untitled",
-    "02 - Computers/Not Great Notes/Hardware/Registers/PSW",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105802.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105750.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224093322.png",
