@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Computers/00 - volatile/Pipelining.md",
+                "file": "000 - Dead Lines/Get this done.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipelining"
+              "title": "Get this done"
             }
           }
         ]
@@ -164,8 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb3f909135054ae7",
+  "active": "52092e63b5bbe198",
   "lastOpenFiles": [
+    "Untitled.md",
+    "000 - Dead Lines/Get this done.md",
+    "02 - Computers/00 - volatile/Pipelining.md",
+    "000 - Dead Lines",
     "02 - Computers/00 - volatile/Scaler Architecture.md",
     "03 - Essays/Weapons Development and Engineering Ethics/Staging/Questions.md",
     "03 - Essays/Weapons Development and Engineering Ethics/Staging/Sources.md",
@@ -192,11 +196,8 @@
     "02 - Computers/Flynn's Taxonomy/Single Instruction Stream Multiple Data Stream.md",
     "02 - Computers/Flynn's Taxonomy/Flynn's Taxonomy.md",
     "02 - Computers/00 - volatile/Superscalar Architecture.md",
-    "02 - Computers/00 - volatile/Pipelining.md",
     "02 - Computers/Flynn's Taxonomy",
     "02 - Computers/Not Great Notes/Concepts/Architecture.md",
-    "02 - Computers/Not Great Notes/Concepts/Bit Order.md",
-    "02 - Computers/Not Great Notes/Concepts/Publisher-Subscriber Relationship.md",
     "02 - Computers/Not Great Notes",
     "Pasted image 20250301165036.png",
     "06 - Signals/00 - volatile",
@@ -204,7 +205,6 @@
     "06 - Signals/00 - volatile",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224084253.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250228085922.png",
-    "01 - Circuits/Components/Transistors/npn BJT",
     "99 - Metadata/image_bank/circuits/Pasted image 20250228084933.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105802.png",
     "99 - Metadata/image_bank/circuits/Pasted image 20250224105750.png",
